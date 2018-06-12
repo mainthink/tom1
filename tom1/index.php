@@ -4,7 +4,7 @@
     $data = json_decode($string,true);
 
 ?>
-<!octype html>
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
