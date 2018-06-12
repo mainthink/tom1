@@ -1,6 +1,0 @@
-<?php
-class Men {
- public function __constuct(){
-      echo "h";
- }
-}
